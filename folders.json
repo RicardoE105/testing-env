@@ -1,0 +1,114 @@
+{
+  "folders": [
+    {
+      "id": "3ozAtXsO0yQxzCWy",
+      "name": "root golder",
+      "parentFolderId": null
+    },
+    {
+      "id": "6xbQucqd4E9dhxgm",
+      "name": "asasas",
+      "parentFolderId": null
+    },
+    {
+      "id": "GhS8pmRw8cvYbpHE",
+      "name": "asas",
+      "parentFolderId": null
+    },
+    {
+      "id": "kqCXC63UaRYc20ji",
+      "name": "asasasas",
+      "parentFolderId": null
+    },
+    {
+      "id": "rIUSJ2RBlCE7fwRi",
+      "name": "this is ricardo",
+      "parentFolderId": null
+    },
+    {
+      "id": "bHNXae46pbewsnO1",
+      "name": "what papa",
+      "parentFolderId": null
+    },
+    {
+      "id": "a",
+      "name": "subfolder the asasa",
+      "parentFolderId": null
+    },
+    {
+      "id": "hV2Y4YBtaUN0ZMuI",
+      "name": "ricardo",
+      "parentFolderId": null
+    },
+    {
+      "id": "WPxMdjxMqDIrUfF4",
+      "name": "ricardo children 1",
+      "parentFolderId": null
+    },
+    {
+      "id": "VY2HoHPQjAlVFENh",
+      "name": "ricardo children 2",
+      "parentFolderId": null
+    },
+    {
+      "id": "ymFqfXKcr6hVZrBZ",
+      "name": "ricardo children 2 children 1",
+      "parentFolderId": null
+    },
+    {
+      "id": "YdDO42rpaLTwCR4K",
+      "name": "teresa folder",
+      "parentFolderId": null
+    }
+  ],
+  "mappings": [
+    {
+      "workflowId": "QHysYkNNIr5hjxLR",
+      "parentFolderId": null
+    },
+    {
+      "workflowId": "Iji67iNziGcfgccd",
+      "parentFolderId": null
+    },
+    {
+      "workflowId": "d2T0YmA6MXL8USio",
+      "parentFolderId": null
+    },
+    {
+      "workflowId": "5O6ls3ZiUrOTtUH3",
+      "parentFolderId": "rIUSJ2RBlCE7fwRi"
+    },
+    {
+      "workflowId": "WucfSDiYEVzJdXlF",
+      "parentFolderId": "rIUSJ2RBlCE7fwRi"
+    },
+    {
+      "workflowId": "2qZHqciSQ1tcgMKD",
+      "parentFolderId": "3ozAtXsO0yQxzCWy"
+    },
+    {
+      "workflowId": "BEsm9aY12GxJNIBe",
+      "parentFolderId": "3ozAtXsO0yQxzCWy"
+    },
+    {
+      "workflowId": "1XhfTXXCj6M0j3TY",
+      "parentFolderId": "rIUSJ2RBlCE7fwRi"
+    },
+    {
+      "workflowId": "ecRjrRVvbs1Eu96q",
+      "parentFolderId": "WPxMdjxMqDIrUfF4"
+    },
+    {
+      "workflowId": "0RHgG4BwSJJ9z8md",
+      "parentFolderId": "VY2HoHPQjAlVFENh"
+    },
+    {
+      "workflowId": "IcgxbqVJ1XqjTYXf",
+      "parentFolderId": "hV2Y4YBtaUN0ZMuI"
+    },
+    {
+      "workflowId": "PeqCUgsa4Knrns5I",
+      "parentFolderId": "YdDO42rpaLTwCR4K"
+    }
+  ]
+}

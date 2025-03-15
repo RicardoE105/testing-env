@@ -1,0 +1,52 @@
+{
+  "id": "8MSum9UEP9jmouV7",
+  "name": "My workflow 17asasasasas",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "d550a286-cbe9-4e00-b819-f51134ea24b5",
+      "name": "When clicking ‘Test workflow’"
+    },
+    {
+      "parameters": {
+        "category": "randomData"
+      },
+      "type": "n8n-nodes-base.debugHelper",
+      "typeVersion": 1,
+      "position": [
+        220,
+        -140
+      ],
+      "id": "d6650f50-5eb9-4ad0-aa3f-ecca51849c8f",
+      "name": "DebugHelper"
+    }
+  ],
+  "connections": {
+    "When clicking ‘Test workflow’": {
+      "main": [
+        [
+          {
+            "node": "DebugHelper",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "2fb10769-459a-4509-8ec6-5a06a7d02385",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
