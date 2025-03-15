@@ -21,7 +21,7 @@
       "typeVersion": 1,
       "position": [
         220,
-        -140
+        -20
       ],
       "id": "d6650f50-5eb9-4ad0-aa3f-ecca51849c8f",
       "name": "DebugHelper"
@@ -44,7 +44,7 @@
     "executionOrder": "v1"
   },
   "triggerCount": 0,
-  "versionId": "2fb10769-459a-4509-8ec6-5a06a7d02385",
+  "versionId": "46102219-1153-48e1-8e3c-19499c285285",
   "owner": {
     "type": "personal",
     "personalEmail": "ricardo@n8n.io"
