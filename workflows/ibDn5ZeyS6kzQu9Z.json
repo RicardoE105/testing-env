@@ -1,0 +1,15 @@
+{
+  "id": "ibDn5ZeyS6kzQu9Z",
+  "name": "this is teresa wrkflowasas",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "ae9f81a2-2952-44b4-b788-122d26852ba3",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
