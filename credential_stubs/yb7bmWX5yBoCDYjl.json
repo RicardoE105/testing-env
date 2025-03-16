@@ -1,0 +1,12 @@
+{
+  "id": "yb7bmWX5yBoCDYjl",
+  "name": "Action Network account",
+  "type": "actionNetworkApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
