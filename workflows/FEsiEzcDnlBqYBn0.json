@@ -1,0 +1,15 @@
+{
+  "id": "FEsiEzcDnlBqYBn0",
+  "name": "new personal folder",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "2faad9e2-5371-4cea-aac7-78c31e44ef95",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
