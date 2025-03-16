@@ -92,24 +92,12 @@
     },
     {
       "id": "LFuoPfevIoWdzkiG",
-      "name": "this ia a new folder",
+      "name": "this ia a new folderasasas",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "mappings": [
-    {
-      "workflowId": "QHysYkNNIr5hjxLR",
-      "parentFolderId": null
-    },
-    {
-      "workflowId": "Iji67iNziGcfgccd",
-      "parentFolderId": null
-    },
-    {
-      "workflowId": "d2T0YmA6MXL8USio",
-      "parentFolderId": null
-    },
     {
       "workflowId": "5O6ls3ZiUrOTtUH3",
       "parentFolderId": "rIUSJ2RBlCE7fwRi"
