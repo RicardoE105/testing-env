@@ -20,8 +20,8 @@
       "type": "n8n-nodes-base.debugHelper",
       "typeVersion": 1,
       "position": [
-        100,
-        -220
+        300,
+        -60
       ],
       "id": "d6650f50-5eb9-4ad0-aa3f-ecca51849c8f",
       "name": "DebugHelper"
@@ -44,7 +44,7 @@
     "executionOrder": "v1"
   },
   "triggerCount": 0,
-  "versionId": "ede8b39f-7e5c-4a8e-81c7-dbfd52c1be81",
+  "versionId": "7819abfd-f023-4259-a489-456a5058f05c",
   "owner": {
     "type": "personal",
     "personalEmail": "ricardo@n8n.io"
