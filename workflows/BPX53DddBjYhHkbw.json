@@ -1,0 +1,16 @@
+{
+  "id": "BPX53DddBjYhHkbw",
+  "name": "new wotkflow inside new follder",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "20cff6f9-3935-4581-87f9-60838bbce814",
+  "owner": {
+    "type": "team",
+    "teamId": "buSYfBepIZLYztZA",
+    "teamName": "project to transfer folders to"
+  }
+}

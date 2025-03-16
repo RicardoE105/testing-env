@@ -77,6 +77,12 @@
       "name": "new folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "KnIKTOkAKaoR2bdO",
+      "name": "new folder",
+      "parentFolderId": null,
+      "homeProjectId": "buSYfBepIZLYztZA"
     }
   ],
   "mappings": [
@@ -127,6 +133,10 @@
     {
       "workflowId": "PeqCUgsa4Knrns5I",
       "parentFolderId": "YdDO42rpaLTwCR4K"
+    },
+    {
+      "workflowId": "BPX53DddBjYhHkbw",
+      "parentFolderId": "KnIKTOkAKaoR2bdO"
     }
   ]
 }
