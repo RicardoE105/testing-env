@@ -1,6 +1,6 @@
 {
   "id": "8MSum9UEP9jmouV7",
-  "name": "My workflow 17asasasasas",
+  "name": "My workflow 17asasasasasasas",
   "nodes": [
     {
       "parameters": {},
@@ -44,7 +44,7 @@
     "executionOrder": "v1"
   },
   "triggerCount": 0,
-  "versionId": "46102219-1153-48e1-8e3c-19499c285285",
+  "versionId": "711d8e03-bb5f-4313-806c-d30cb25e4a71",
   "owner": {
     "type": "personal",
     "personalEmail": "ricardo@n8n.io"
