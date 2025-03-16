@@ -89,6 +89,12 @@
       "name": "new personal folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "LFuoPfevIoWdzkiG",
+      "name": "this ia a new folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "mappings": [
