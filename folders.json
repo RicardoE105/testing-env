@@ -119,6 +119,12 @@
       "name": "anther new folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "J6GSFToJ3BgmwhPO",
+      "name": "anothr folder papa",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "mappings": [
