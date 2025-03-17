@@ -107,6 +107,12 @@
       "name": "folder papa",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "7RefTVy6Vaw1DLfj",
+      "name": "another new folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "mappings": [
