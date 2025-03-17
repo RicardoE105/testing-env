@@ -1,6 +1,6 @@
 {
   "id": "gIleQWUwDFUL9aO8",
-  "name": "another workflow",
+  "name": "another workflow updated",
   "nodes": [
     {
       "parameters": {},
@@ -19,7 +19,7 @@
     "executionOrder": "v1"
   },
   "triggerCount": 0,
-  "versionId": "331ec275-de44-42a4-aee8-37425dc41da5",
+  "versionId": "cc06fc8d-370a-419b-9016-419d4a2d205d",
   "owner": {
     "type": "personal",
     "personalEmail": "ricardo@n8n.io"
