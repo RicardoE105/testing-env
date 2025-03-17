@@ -1,0 +1,42 @@
+{
+  "tags": [
+    {
+      "id": "jGnP8AnN68AV7m29",
+      "name": "ricardo"
+    },
+    {
+      "id": "cuhEV7Q06Dr2n7Yx",
+      "name": "melissa"
+    },
+    {
+      "id": "ZTygSa9qNdab6Neo",
+      "name": "thi is a new tag"
+    }
+  ],
+  "mappings": [
+    {
+      "workflowId": "QHysYkNNIr5hjxLR",
+      "tagId": "cuhEV7Q06Dr2n7Yx"
+    },
+    {
+      "workflowId": "QHysYkNNIr5hjxLR",
+      "tagId": "jGnP8AnN68AV7m29"
+    },
+    {
+      "workflowId": "Iji67iNziGcfgccd",
+      "tagId": "cuhEV7Q06Dr2n7Yx"
+    },
+    {
+      "workflowId": "d2T0YmA6MXL8USio",
+      "tagId": "jGnP8AnN68AV7m29"
+    },
+    {
+      "workflowId": "BEsm9aY12GxJNIBe",
+      "tagId": "cuhEV7Q06Dr2n7Yx"
+    },
+    {
+      "workflowId": "TafHKDTD5IHO7Gwa",
+      "tagId": "cuhEV7Q06Dr2n7Yx"
+    }
+  ]
+}
