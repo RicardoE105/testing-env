@@ -101,6 +101,12 @@
       "name": "new folder in personal project (updated2)",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "UsoMiS5kPtbvJwnI",
+      "name": "folder papa",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "mappings": [
