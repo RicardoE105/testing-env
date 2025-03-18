@@ -1,0 +1,15 @@
+{
+  "id": "bSrFH8yPZ8WhvCGq",
+  "name": "new workflow in folder",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "09d23d99-fbb5-4b8f-9a6c-d3133a748e66",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
