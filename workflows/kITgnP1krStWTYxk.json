@@ -1,0 +1,16 @@
+{
+  "id": "kITgnP1krStWTYxk",
+  "name": "workflow jc",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "64406f67-c9bb-4ded-a3de-2f88d3df1113",
+  "owner": {
+    "type": "team",
+    "teamId": "H4G0A6sLL5PkUWlE",
+    "teamName": "new project jc"
+  }
+}
