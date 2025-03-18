@@ -131,6 +131,12 @@
       "name": "maria folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "o08C0ILsTZ74nYKt",
+      "name": "adding new workflow to folder",
+      "parentFolderId": "7RefTVy6Vaw1DLfj",
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
