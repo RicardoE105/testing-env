@@ -147,6 +147,10 @@
   ],
   "workflowMappings": [
     {
+      "workflowId": "78jU6cBbyD9ZxhIn",
+      "parentFolderId": "rFQH8eClOA4PdFeD"
+    },
+    {
       "workflowId": "5O6ls3ZiUrOTtUH3",
       "parentFolderId": "rIUSJ2RBlCE7fwRi"
     },
