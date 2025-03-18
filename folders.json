@@ -137,6 +137,12 @@
       "name": "adding new workflow to folder",
       "parentFolderId": "7RefTVy6Vaw1DLfj",
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "vH3sxShdGQ2UJew8",
+      "name": "another folder",
+      "parentFolderId": "7RefTVy6Vaw1DLfj",
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -175,6 +181,14 @@
     {
       "workflowId": "PeqCUgsa4Knrns5I",
       "parentFolderId": "YdDO42rpaLTwCR4K"
+    },
+    {
+      "workflowId": "bSrFH8yPZ8WhvCGq",
+      "parentFolderId": "7RefTVy6Vaw1DLfj"
+    },
+    {
+      "workflowId": "kJArrP4OKDoc9ohm",
+      "parentFolderId": "7RefTVy6Vaw1DLfj"
     }
   ]
 }
