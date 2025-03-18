@@ -1,0 +1,15 @@
+{
+  "id": "NBdaYRJd8BVJreQu",
+  "name": "brand new workflow",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "e08addf9-7cf2-4030-a428-1ab9849a7c66",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
