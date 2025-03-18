@@ -1,0 +1,13 @@
+{
+  "id": "FQbH24UuLItWDcjg",
+  "name": "Google Analytics account",
+  "type": "googleAnalyticsOAuth2",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
