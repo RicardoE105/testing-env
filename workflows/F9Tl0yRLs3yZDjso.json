@@ -1,16 +1,16 @@
 {
-  "id": "IcgxbqVJ1XqjTYXf",
-  "name": "workflow3",
+  "id": "F9Tl0yRLs3yZDjso",
+  "name": "SHFJSHFJKDSHFKJSDHFJKSDHFKJSDHJDKSFS",
   "nodes": [],
   "connections": {},
   "settings": {
     "executionOrder": "v1"
   },
   "triggerCount": 0,
-  "versionId": "759301f3-ad01-4717-b4e9-88b33874f709",
+  "versionId": "7c31c2ef-8ed6-4faa-8317-5f964e6d2a0e",
   "owner": {
     "type": "personal",
     "personalEmail": "ricardo@n8n.io"
   },
-  "parentFolderId": "hV2Y4YBtaUN0ZMuI"
+  "parentFolderId": null
 }
