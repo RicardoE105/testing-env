@@ -149,6 +149,12 @@
       "name": "creating new folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "QyAaiDXRa5yF1212",
+      "name": "this is a new folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -195,6 +201,10 @@
     {
       "workflowId": "bSrFH8yPZ8WhvCGq",
       "parentFolderId": "vH3sxShdGQ2UJew8"
+    },
+    {
+      "workflowId": "Ngv1fVXzoWuELHZY",
+      "parentFolderId": "QyAaiDXRa5yF1212"
     }
   ]
 }
