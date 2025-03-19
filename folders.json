@@ -143,6 +143,12 @@
       "name": "another folder",
       "parentFolderId": "7RefTVy6Vaw1DLfj",
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "UG1CqpHu6baC82tA",
+      "name": "creating new folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
