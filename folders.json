@@ -155,6 +155,42 @@
       "name": "this is a new folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "sCBQ4jR3egGqCI5Q",
+      "name": "extra folder1",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "3wOjlHtJUkMLj0kp",
+      "name": "extra folder 2",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "unmU1QCHZNXdzgGF",
+      "name": "extra folder 3",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "Q5otuGKNThd9RFLW",
+      "name": "extra folder 4",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "Q2glWZVjQLsGGKEH",
+      "name": "extra folder 5",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "3jh0IQHay8m28dOh",
+      "name": "extra folder 6",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
