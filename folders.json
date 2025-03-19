@@ -239,6 +239,12 @@
       "name": "KJSAHDJKSHDKJSHDJSKHDSD",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "gXWQd7tQtbOh2oMt",
+      "name": "This is a new folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
