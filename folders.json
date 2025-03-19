@@ -221,6 +221,12 @@
       "name": "anoter golder",
       "parentFolderId": "ZW0tfzvVUj9rST3I",
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "Zqsska2seGXUkyf3",
+      "name": "another golder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
