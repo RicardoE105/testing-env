@@ -1,0 +1,15 @@
+{
+  "id": "qewIV0HopmxXjdqx",
+  "name": "My workflow 19",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "1e3aedb1-7efe-4f5d-b833-ffa697d26482",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
