@@ -1,0 +1,52 @@
+{
+  "id": "pZGEwVB0ciaW4PJc",
+  "name": "this is molly workflow",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        -300,
+        -120
+      ],
+      "id": "f3b7cf92-6962-4def-a5db-84aff4b4693d",
+      "name": "When clicking ‘Test workflow’"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -20,
+        -140
+      ],
+      "id": "032ad867-ced4-462e-990f-ca757e7ca30b",
+      "name": "Edit Fields"
+    }
+  ],
+  "connections": {
+    "When clicking ‘Test workflow’": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "ed1a7217-7d36-4897-a9b9-0054cfe79852",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
