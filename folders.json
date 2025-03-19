@@ -203,6 +203,12 @@
       "name": "root folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "ZW0tfzvVUj9rST3I",
+      "name": "new root folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -269,6 +275,10 @@
     {
       "workflowId": "4aOe4HugTmFTt5bO",
       "parentFolderId": "JlsBHd527kxJ6EPT"
+    },
+    {
+      "workflowId": "t2o8KtqzspaX1ruO",
+      "parentFolderId": "ZW0tfzvVUj9rST3I"
     }
   ]
 }
