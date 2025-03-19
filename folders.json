@@ -245,6 +245,12 @@
       "name": "This is a new folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "6s8n0C7soMtTNJ0w",
+      "name": "last fucking folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -335,6 +341,10 @@
     {
       "workflowId": "IuWRceyh2lanHGwq",
       "parentFolderId": "Zqsska2seGXUkyf3"
+    },
+    {
+      "workflowId": "tXTWS63OmDaccb5l",
+      "parentFolderId": "gXWQd7tQtbOh2oMt"
     }
   ]
 }
