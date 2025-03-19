@@ -251,6 +251,106 @@
       "name": "last fucking folder",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "lmZJfwSHHSPpEAT0",
+      "name": "z folder in personal",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
+  "workflowMappings": [
+    {
+      "workflowId": "78jU6cBbyD9ZxhIn",
+      "parentFolderId": "rFQH8eClOA4PdFeD"
+    },
+    {
+      "workflowId": "5O6ls3ZiUrOTtUH3",
+      "parentFolderId": "rIUSJ2RBlCE7fwRi"
+    },
+    {
+      "workflowId": "WucfSDiYEVzJdXlF",
+      "parentFolderId": "rIUSJ2RBlCE7fwRi"
+    },
+    {
+      "workflowId": "2qZHqciSQ1tcgMKD",
+      "parentFolderId": "3ozAtXsO0yQxzCWy"
+    },
+    {
+      "workflowId": "BEsm9aY12GxJNIBe",
+      "parentFolderId": "3ozAtXsO0yQxzCWy"
+    },
+    {
+      "workflowId": "1XhfTXXCj6M0j3TY",
+      "parentFolderId": "rIUSJ2RBlCE7fwRi"
+    },
+    {
+      "workflowId": "ecRjrRVvbs1Eu96q",
+      "parentFolderId": "WPxMdjxMqDIrUfF4"
+    },
+    {
+      "workflowId": "0RHgG4BwSJJ9z8md",
+      "parentFolderId": "VY2HoHPQjAlVFENh"
+    },
+    {
+      "workflowId": "IcgxbqVJ1XqjTYXf",
+      "parentFolderId": "hV2Y4YBtaUN0ZMuI"
+    },
+    {
+      "workflowId": "PeqCUgsa4Knrns5I",
+      "parentFolderId": "YdDO42rpaLTwCR4K"
+    },
+    {
+      "workflowId": "bSrFH8yPZ8WhvCGq",
+      "parentFolderId": "vH3sxShdGQ2UJew8"
+    },
+    {
+      "workflowId": "Ngv1fVXzoWuELHZY",
+      "parentFolderId": "QyAaiDXRa5yF1212"
+    },
+    {
+      "workflowId": "ciehI6Vq3HXqW6IX",
+      "parentFolderId": "3jh0IQHay8m28dOh"
+    },
+    {
+      "workflowId": "vMApCABK7y38TKhz",
+      "parentFolderId": "Q5otuGKNThd9RFLW"
+    },
+    {
+      "workflowId": "tFaz5zCv8f94wjqk",
+      "parentFolderId": "3wOjlHtJUkMLj0kp"
+    },
+    {
+      "workflowId": "4aOe4HugTmFTt5bO",
+      "parentFolderId": "JlsBHd527kxJ6EPT"
+    },
+    {
+      "workflowId": "t2o8KtqzspaX1ruO",
+      "parentFolderId": "ZW0tfzvVUj9rST3I"
+    },
+    {
+      "workflowId": "toCO4TRreqQJsnsc",
+      "parentFolderId": "ZW0tfzvVUj9rST3I"
+    },
+    {
+      "workflowId": "mTN3ojutELD53Bf3",
+      "parentFolderId": "ZW0tfzvVUj9rST3I"
+    },
+    {
+      "workflowId": "k4fUPS2vtsNlo92V",
+      "parentFolderId": "ZW0tfzvVUj9rST3I"
+    },
+    {
+      "workflowId": "rRhftOuPr2bRRDJF",
+      "parentFolderId": "ZW0tfzvVUj9rST3I"
+    },
+    {
+      "workflowId": "IuWRceyh2lanHGwq",
+      "parentFolderId": "Zqsska2seGXUkyf3"
+    },
+    {
+      "workflowId": "tXTWS63OmDaccb5l",
+      "parentFolderId": "gXWQd7tQtbOh2oMt"
+    }
+  ]
 }
