@@ -257,6 +257,12 @@
       "name": "z folder in personal",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "ZS5XB2vtyu4vvMKS",
+      "name": "n8n folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -351,6 +357,10 @@
     {
       "workflowId": "tXTWS63OmDaccb5l",
       "parentFolderId": "gXWQd7tQtbOh2oMt"
+    },
+    {
+      "workflowId": "Yv2rm1SoKuYqDXiJ",
+      "parentFolderId": "ZS5XB2vtyu4vvMKS"
     }
   ]
 }
