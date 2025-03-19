@@ -1,0 +1,15 @@
+{
+  "id": "Ngv1fVXzoWuELHZY",
+  "name": "this is a new workflow",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "3d2fd739-637f-4ae8-8c5d-b0ae00bb7255",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
