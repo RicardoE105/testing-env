@@ -191,6 +191,12 @@
       "name": "extra folder 6",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "6ZJb1b0qv9xQt6dP",
+      "name": "children worlow",
+      "parentFolderId": "Q2glWZVjQLsGGKEH",
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -241,6 +247,18 @@
     {
       "workflowId": "Ngv1fVXzoWuELHZY",
       "parentFolderId": "QyAaiDXRa5yF1212"
+    },
+    {
+      "workflowId": "ciehI6Vq3HXqW6IX",
+      "parentFolderId": "3jh0IQHay8m28dOh"
+    },
+    {
+      "workflowId": "vMApCABK7y38TKhz",
+      "parentFolderId": "Q5otuGKNThd9RFLW"
+    },
+    {
+      "workflowId": "tFaz5zCv8f94wjqk",
+      "parentFolderId": "3wOjlHtJUkMLj0kp"
     }
   ]
 }

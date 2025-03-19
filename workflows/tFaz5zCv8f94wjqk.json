@@ -1,0 +1,15 @@
+{
+  "id": "tFaz5zCv8f94wjqk",
+  "name": "children workflow",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "92b51552-d10d-4b8f-8d9d-78dbadd882c4",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
