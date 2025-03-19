@@ -269,6 +269,12 @@
       "name": "n8n folder v2",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "wZlgMGtdSQjghMLU",
+      "name": "n8n folder v3",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [

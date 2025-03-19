@@ -1,0 +1,16 @@
+{
+  "id": "wMpiRCX4MYqcQhf9",
+  "name": "n8n version v3",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "b22c168e-4300-494f-831c-58023394e3c2",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "parentFolderId": null
+}
