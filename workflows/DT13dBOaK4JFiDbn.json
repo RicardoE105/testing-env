@@ -1,0 +1,16 @@
+{
+  "id": "DT13dBOaK4JFiDbn",
+  "name": "n8n workflow v2",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "15b11ce1-c819-491d-b6d5-0c01f29d56ce",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "parentFolderId": "EgJlMO7OSEWUXXg3"
+}
