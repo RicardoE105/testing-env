@@ -215,6 +215,12 @@
       "name": "this is the last folder",
       "parentFolderId": "ZW0tfzvVUj9rST3I",
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "xumj6GYRpQli3RwQ",
+      "name": "anoter golder",
+      "parentFolderId": "ZW0tfzvVUj9rST3I",
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -296,6 +302,10 @@
     },
     {
       "workflowId": "k4fUPS2vtsNlo92V",
+      "parentFolderId": "ZW0tfzvVUj9rST3I"
+    },
+    {
+      "workflowId": "rRhftOuPr2bRRDJF",
       "parentFolderId": "ZW0tfzvVUj9rST3I"
     }
   ]
