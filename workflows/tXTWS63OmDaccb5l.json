@@ -1,0 +1,16 @@
+{
+  "id": "tXTWS63OmDaccb5l",
+  "name": "new workflow here papa",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "2b65e9cd-9c33-4364-9294-46d5e6195bf9",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "parentFolderId": "gXWQd7tQtbOh2oMt"
+}
