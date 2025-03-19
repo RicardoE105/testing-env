@@ -197,6 +197,12 @@
       "name": "children worlow",
       "parentFolderId": "Q2glWZVjQLsGGKEH",
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "JlsBHd527kxJ6EPT",
+      "name": "root folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -259,6 +265,10 @@
     {
       "workflowId": "tFaz5zCv8f94wjqk",
       "parentFolderId": "3wOjlHtJUkMLj0kp"
+    },
+    {
+      "workflowId": "4aOe4HugTmFTt5bO",
+      "parentFolderId": "JlsBHd527kxJ6EPT"
     }
   ]
 }
