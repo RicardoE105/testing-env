@@ -275,6 +275,12 @@
       "name": "n8n folder v3",
       "parentFolderId": null,
       "homeProjectId": "mvlNse9tTm3JeDvz"
+    },
+    {
+      "id": "xs8e4CCV7oxsDyCH",
+      "name": "aja",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz"
     }
   ],
   "workflowMappings": [
@@ -377,6 +383,14 @@
     {
       "workflowId": "DT13dBOaK4JFiDbn",
       "parentFolderId": "EgJlMO7OSEWUXXg3"
+    },
+    {
+      "workflowId": "MmpCNB2nspW4bUvy",
+      "parentFolderId": "wZlgMGtdSQjghMLU"
+    },
+    {
+      "workflowId": "hAFEGkbKUS6xUM8R",
+      "parentFolderId": "LFuoPfevIoWdzkiG"
     }
   ]
 }
